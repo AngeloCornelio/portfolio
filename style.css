@@ -1,0 +1,26 @@
+body {
+  background-color: #232020;
+  color: #EADEDA;
+}
+
+h1 {
+  color: #66885E;
+  font-weight: 700;
+}
+
+h2 {
+  color: #BFB8AD;
+  font-weight: 400;
+}
+
+p {
+  color: #706C61;
+}
+
+h1, h2 {
+  font-family: Raleway;
+}
+
+p, li {
+  font-family: Roboto;
+}
